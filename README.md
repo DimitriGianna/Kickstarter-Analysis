@@ -10,13 +10,11 @@ The purpose of this project is to help a kickstart campaign manager determine wh
 The analysis for this project consists of two investigations:
 
 ### Analysis of Outcomes Based on Launch Date
-![image_name](https://github.com/DimitriGianna/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true
-![image_name](/Users/dimitrigiannakopoulos/Library/Mobile Documents/com~apple~CloudDocs/Data Analytics Bootcamp/Module 1/Week 1/Module 1 Challenge/Resources/Theater_Outcomes_vs_Launch.png)
-/Users/dimitrigiannakopoulos/Library/Mobile Documents/com~apple~CloudDocs/Data Analytics Bootcamp/Module 1/Week 1/Module 1 Challenge/Resources/Theater_Outcomes_vs_Launch.png
+![image_name](path/to/image_name.png)
 This analysis examined the outcomes of campaigns as they relate to the date the campaigns was launched. A large sample of campaigns for play productions over a course of several years was filtered to display which months yielded the highest percentage of successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
-/Users/dimitrigiannakopoulos/Library/Mobile Documents/com~apple~CloudDocs/Data Analytics Bootcamp/Module 1/Week 1/Module 1 Challenge/Resources/Outcomes_vs_Goals.png
+![image_name](path/to/image_name.png)
 This analysis examined the outcome of campaigns as they relate to different groupings of fundraising targets.Various campaign targets were divided into groups to look at which range of fundraising goals produced the highest percentage of successful campaigns.
 
 ### Challenges and Difficulties Encountered
