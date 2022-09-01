@@ -10,7 +10,7 @@ The purpose of this project is to help a kickstart campaign manager determine wh
 The analysis for this project consists of two investigations:
 
 ### Analysis of Outcomes Based on Launch Date
-![image_name](https://github.com/DimitriGianna/Kickstarter-Analysis/commit/3e157d6b97aaa12de18731056e119d0eef9dca13#diff-0a6e3f4326491bcabef6721eea9629f44441166f5585dd3455b29bed61737449.png)
+![image_name](https://github.com/DimitriGianna/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true.png)
 This analysis examined the outcomes of campaigns as they relate to the date the campaigns was launched. A large sample of campaigns for play productions over a course of several years was filtered to display which months yielded the highest percentage of successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
