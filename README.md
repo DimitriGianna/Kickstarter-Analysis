@@ -23,11 +23,17 @@ Some challenges that were encountered were ensuring that the charts were formatt
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The first conclusion that one can draw from this analysis is that the best month in which to start a campaign is either May or June as they yielded the highest percentage of successful campaigns. The second conclusion is that the worst month in which to start a campaign is December as is yielded the lowest percentage of successful campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
+
 From this analysis, one can conclude that campaigns with a goal of under $5000 yield the best results as they are responsible for the highest percentage of successful campaigns. 
+
 - What are some limitations of this dataset?
+
 One limitation of this dataset is the relativley small sample size of the campaigns with higher targets. With such a small dataset, it is difficult to determine if the results accurately reflect the typical campaigns of this size. Another limitation, which is closely tied to the first, is narrowing the search to just "plays" which contributes to the smaller sample size since the effect of the size of the goals and as well as the date of launch might not be limited to just campaigns for plays.
+
 - What are some other possible tables and/or graphs that we could create?
+
 Other possible tables and/or charts we could create are ones that examine the results of the duration of a campaigns for plays or one that looked at the number of backers a campaign had.
