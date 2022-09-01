@@ -14,7 +14,7 @@ The analysis for this project consists of two investigations:
 This analysis examined the outcomes of campaigns as they relate to the date the campaigns was launched. A large sample of campaigns for play productions over a course of several years was filtered to display which months yielded the highest percentage of successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
-![image_name](path/to/image_name.png)
+![image_name](https://github.com/DimitriGianna/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true.png)
 This analysis examined the outcome of campaigns as they relate to different groupings of fundraising targets.Various campaign targets were divided into groups to look at which range of fundraising goals produced the highest percentage of successful campaigns.
 
 ### Challenges and Difficulties Encountered
