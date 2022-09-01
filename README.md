@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
 This project examines data from various Kickstarter campaigns to determine how varous criteria contribute to a successful campaign. 
